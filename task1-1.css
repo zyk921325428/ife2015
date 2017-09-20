@@ -1,0 +1,106 @@
+.head1 {
+	color:blue;
+	}
+.head2 {
+	font-size:14px;
+	}
+.p1 {
+	font:italic bold 12px/20px arial,sans-serif;
+text-indent:50px;
+text-transform:capitalize;
+text-decoration:underline;
+text-align:center;
+word-spacing:25px;
+white-space;pre;
+line-height:150%;
+color:yellow;
+background-color:black;
+}
+ .image {
+	 border: 
+	 2px solid red;
+	 }
+ 
+ 
+ .div11{
+	background-color:gray;
+	width:960px;
+	height:100px;
+	margin:0 auto;
+ }
+  .div12{
+	background-color:yellow;
+	width:960px;
+	height:100px;
+	margin:0 -480px;
+	position:relative;
+	left:50%;
+ }
+.top1{
+background:gray;
+	margin:0 2px;
+	height:1px;
+}
+.top2{
+	border-left:1px solid black;
+		border-right:1px solid black;
+			height:1px;
+	margin:0 1px;
+
+}
+.mid{
+	border-left:1px solid black;
+		border-right:1px solid black;
+	overflow:hidden;
+		height:100%;
+}
+.div2{
+	position:fixed;
+	top:0;
+	left:0;
+	height:99%;
+	width:100%;
+}
+.div31{
+	height:100px;
+	width:100px;
+	background:gray;
+	float:left;
+}
+.div32{
+	height:100px;
+	width:auto;
+	background:yellow;
+}
+
+.div33{
+	height:100px;
+	width:100px;
+	background:yellow;
+}
+.div34{
+margin-top:-100px;
+margin-left:100px;
+	height:100px;
+	width:auto;
+	background:gray;
+}
+
+.div41{
+	height:100px;
+	width:200px;
+	background:gray;
+float:left;
+}
+.div42{
+	height:100px;
+	margin:0 200px;
+	background:yellow;
+}
+.div43{
+	margin-top:-100px;
+	height:100px;
+	width:200px;
+	background:black;
+float:right;
+}
