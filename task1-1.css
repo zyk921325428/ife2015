@@ -104,3 +104,44 @@ float:left;
 	background:black;
 float:right;
 }
+
+.div4{
+	padding: 0 200px;
+}
+.div45{
+	height: 100px;
+	background: black;
+}
+.div44{
+	float: left;
+		position: relative;
+	left: -200px;
+	top:0;
+	height: 100px;
+	background: yellow;
+	width: 200px;
+}
+.div46{
+	float: right;
+		position: relative;
+		right: -200px;
+		top: -100px;
+	height: 100px;
+	background: gray;
+	width: 200px;
+}
+.div5{
+	overflow: hidden;
+	background: red;
+	width: 100%;
+}
+.div5>[class^="div5"]{float: left;
+	margin: 10px;
+	border: solid 1px black;
+	background: blue;
+	height: 100px;
+	width: 200px;
+}
+.clear{
+	clear: both;
+}
